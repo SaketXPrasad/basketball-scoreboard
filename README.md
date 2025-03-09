@@ -20,7 +20,7 @@ Here's how the **Basketball Scoreboard** looks:
 ## 🚀 Getting Started  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/basketball-scoreboard.git  
+   git clone https://github.com/SaketXPrasad/basketball-scoreboard.git  
    ```  
 2. **Navigate into the project folder:**  
    ```bash
